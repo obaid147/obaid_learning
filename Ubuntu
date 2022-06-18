@@ -1,0 +1,11 @@
+Create a desktop icon in ubuntu
+
+nautilus /usr/share/applications/
+1. paste above link in terminal, This will open a new window
+
+2. look for the app to create desktop shortcut icon, eg chrome
+
+3. copyto Desktop
+
+4. Right click on the icon appearing on desktop and select Allow launching.
+............................................................................
